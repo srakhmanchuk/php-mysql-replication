@@ -20,7 +20,7 @@ composer require krowinski/php-mysql-replication
 or standalone 
 
 ```sh
-git clone https://github.com/krowinski/php-mysql-replication.git
+git clone https://github.com/srakhmanchuk/php-mysql-replication.git
 
 composer install -o
 ```
